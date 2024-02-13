@@ -1,4 +1,4 @@
-📋 **Assignment Overview:**
+# Interactive Contact Form - Assignment Overview:
 
 The assignment was to enhance a contact form's design and functionality, incorporating industry-standard practices and separating the CSS into an external file. The specific tasks included:
 
@@ -25,5 +25,3 @@ The assignment was to enhance a contact form's design and functionality, incorpo
 6. **Interactive Components:**
    - Utilize Bootstrap for responsive and interactive form elements.
    - Adjust button styles and hover effects.
-
-The goal was to deliver an improved, aesthetically pleasing, and user-friendly contact form that aligns with common design standards.
